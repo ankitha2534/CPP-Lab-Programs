@@ -1,5 +1,3 @@
-es (23 sloc)  316 Bytes
-
 #include<iostream>
 using namespace std;
 class rectangle
